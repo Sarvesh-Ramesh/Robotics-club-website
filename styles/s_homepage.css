@@ -325,7 +325,7 @@ span {
     left: 10px;
 }
 .translate {
-    transform: translate(-420px);
+    transform: translate(-240px);
 }
 
 .image_container:hover {
@@ -336,5 +336,20 @@ span {
 }
 
 .image {
-    width: 280px;
+    width: 250px;
+}
+
+.image_text {
+    text-align: center;
+    color: #000000;
+    font-family: Space Grotesk;
+    font-weight: bold;
+}
+
+.image_text2 {
+    text-align: center;
+    color: #000000;
+    font-family: Space Grotesk;
+    font-weight: bolder;
+    font-size: 20px;
 }
